@@ -24,6 +24,14 @@ Call the home page with the correct query string:
 Ids are in format: FeedId:StationOrStopId
 Example: HSL:4000211
 
+### Examples
+
+```
+https://santerinogelainen.github.io/timetables/?stop=HSL%3A1334144
+https://santerinogelainen.github.io/timetables/?station=HSL%3A4000007
+
+```
+
 ## Development
 
 1. Install dependencies:
